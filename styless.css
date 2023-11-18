@@ -1,4 +1,17 @@
-canvas {
 
-    border:  1px solid black;
+canvas {
+    border: 1px solid black;
+      
+}
+
+#bt  {
+    display: flex;
+    flex-direction: row;
+}
+
+
+button{
+    display: flex;
+   color:blue;
+    border-radius: 10px;
 }
