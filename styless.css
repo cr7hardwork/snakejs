@@ -11,7 +11,7 @@ canvas {
 
 
 button{
-    display: flex;
    color:blue;
     border-radius: 10px;
+    display: block;
 }
